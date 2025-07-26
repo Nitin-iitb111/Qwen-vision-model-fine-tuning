@@ -44,7 +44,3 @@ The fine-tuning process resulted in a notable improvement in the model's perform
 **Conclusion:**
 
 Fine-tuning the vision-language model led to a reduction in CER, demonstrating the effectiveness of the training process in enhancing text extraction capabilities for the Gujarati language. The WER remained similar, which could be due to the nature of the errors or the evaluation metrics.
-
-## Installation
-
-To run this project, you need to install the required Python libraries. You can install them using pip:
